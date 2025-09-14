@@ -6141,3 +6141,23 @@ Video CSS
     transform: translateY(0);
   }
 }
+
+
+
+
+
+
+
+
+
+
+.blog-details ul {
+  list-style-type: disc;   /* show bullets */
+  margin-left: 20px;       /* indent bullets */
+  padding-left: 20px;      /* spacing for bullets */
+}
+
+.blog-details ul li {
+  margin-bottom: 6px;      /* spacing between items */
+  line-height: 1.6;        /* better readability */
+}
